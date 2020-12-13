@@ -1,8 +1,8 @@
 # Les Boucles
 
-En PowerShell, la boucle "For" s'appuie sur la syntaxe suivante :
+En PowerShell, on utilise pour les boucles la commande "for", qui s'appuie sur la syntaxe suivante :
 
-![test](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%203.PNG)
+![image](https://media.discordapp.net/attachments/408320873876160522/787738273412939826/powershell1.PNG)
 
 Lorsque l'on utilise une boucle for, on suit la logique suivante : on indique une valeur de départ (état initial), une valeur cible dans la condition de répétition (par exemple la valeur 10) et on incrémente la valeur à chaque tour de boucle (à chaque itération) : on peut incrémenter comme on le veut.
 
@@ -11,7 +11,7 @@ Il éxiste plusieurs types de boucle "For".
 La plus connu est la boucle de "For" de base. 
 Ensuite, il y a la boucle "For" basée sur un nombre d'éléments  
 
-![lol](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%204.PNG)   
+![image](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%204.PNG)   
 
 On va définir la variable $langages et lui attribuer des valeurs (cela pourrait être dynamique).    
 Grâce à $langages.Length, nous allons pouvoir faire une boucle qui traite l'ensemble des éléments du tableau.   
