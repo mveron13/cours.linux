@@ -11,7 +11,7 @@ Il éxiste plusieurs types de boucle "For".
 La plus connu est la boucle de "For" de base. 
 Ensuite, il y a la boucle "For" basée sur un nombre d'éléments  
 
-![image](https://github.com/Flodagnas/FlorianDAGNAS_Linux/blob/main/Cours_PowerShell/Capture%204.PNG)   
+![image](https://media.discordapp.net/attachments/408320873876160522/787739671731896360/powershell2.PNG)   
 
 On va définir la variable $langages et lui attribuer des valeurs (cela pourrait être dynamique).    
 Grâce à $langages.Length, nous allons pouvoir faire une boucle qui traite l'ensemble des éléments du tableau.   
