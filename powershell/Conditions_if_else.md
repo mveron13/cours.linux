@@ -28,3 +28,5 @@ Cependant dans le cas où la condition imposé par le "if" n'est pas rempli, il 
 Else fonctionne de façon similaire à if, sauf qu'il se place obligatoirement après un if et son action, et n'a pas besoin de condition (car il regroupe de base toute les conditions qui ne sont pas les conditions du if)
 
 ![image](https://media.discordapp.net/attachments/408320873876160522/788106239997116447/cond3.PNG)
+
+[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
