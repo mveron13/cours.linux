@@ -21,3 +21,5 @@ Cependant, nous pouvons aussi écrire a la place:*
 Il y a aussi des commandes bien plus simple avec un seul terme, comme par exemple:
 
 -"Clear", pour réinitialiser l'affichage 
+
+[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
