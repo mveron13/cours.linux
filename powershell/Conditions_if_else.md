@@ -8,7 +8,7 @@ Par exemple, si je veux demander à mon programme si le nombre X est strictement
 Pour ceci, nous allons nous servir le plus souvent de "if" et de "else".
 
 
-# If
+## If
 
 
 If permet de prendre en considération la condition qui le suit, par exemple:
@@ -20,7 +20,7 @@ Ici, if vérifie si la condition "min est plus grand ou égal à max". Si la con
 ![image](https://media.discordapp.net/attachments/408320873876160522/788102827712446474/cond2.PNG)
 
 
-# Else
+## Else
 
 
 Cependant dans le cas où la condition imposé par le "if" n'est pas rempli, il faut que le programme puisse afficher un résultat différent; par exemple si un programme, une fois la condition rempli, affiche 1, il doit afficher un autre résultat que 1 si la condition n'est en revanche pas rempli. C'est pour cela que nous allons utiliser "else"
