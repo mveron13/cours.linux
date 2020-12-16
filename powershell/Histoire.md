@@ -64,4 +64,7 @@ System Center Virtual Machine Manager. Egalement présenté les partenariats ave
  Microsoft, la version intégrée à Exchange Server 2007 est appelée Exchange Management Shell (EMS).
 
 
-[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
+
+
+[La Console](https://github.com/mveron13/cours.linux/blob/main/powershell/Console.md)
