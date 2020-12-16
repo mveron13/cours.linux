@@ -22,3 +22,6 @@ Vous pouvez utiliser la souris dans la console ! afin de copier/coller du texte.
 4 – “Clic droit” = “Coller”
 
 [← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
+
+
+[Le Script powershell](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_script_powershell.md)
