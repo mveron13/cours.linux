@@ -29,4 +29,6 @@ Else fonctionne de façon similaire à if, sauf qu'il se place obligatoirement a
 
 ![image](https://media.discordapp.net/attachments/408320873876160522/788106239997116447/cond3.PNG)
 
-[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
+
+[Suivant →](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_boucles.md)
