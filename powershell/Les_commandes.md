@@ -22,7 +22,7 @@ Il y a aussi des commandes bien plus simple avec un seul terme, comme par exempl
 
 -"Clear", pour réinitialiser l'affichage 
 
-[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
 
 
 [Les Variables](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_variables.md)
