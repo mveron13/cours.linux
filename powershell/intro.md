@@ -31,4 +31,4 @@ Voici ci dessous la liste des téléchargements et installations pour un package
 [← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
 
 
-[Suicant →](https://github.com/mveron13/cours.linux/blob/main/powershell/Histoire.md)
+[Suivant →](https://github.com/mveron13/cours.linux/blob/main/powershell/Histoire.md)
