@@ -13,3 +13,5 @@ Dans le même temps, Microsoft développe une version compatible Linux, ce côt�
 6) [Les Variables](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_variables.md)
 7) [Les Conditions](https://github.com/mveron13/cours.linux/blob/main/powershell/Conditions_if_else.md)
 8) [Les Boucles](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_boucles.md)
+
+[C'est parti!](https://github.com/mveron13/cours.linux/blob/main/powershell/intro.md)
