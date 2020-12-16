@@ -5,7 +5,7 @@ Sur powershell, il existe une commande permettant de lister toute les commandes 
 
 Cependant une liste aussi exaustive de commandes n'aide pas a commencer, donc voici les commandes de bases:
 
--"Get-Help" permet d'obtenir de l'aide pour le départ
+-Get-Help permet d'obtenir de l'aide pour le départ
 
 -"Get-Member" permet d'obtenir des informations sur un objet
 
