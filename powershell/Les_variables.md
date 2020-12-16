@@ -15,4 +15,7 @@ $Process = Get-Process
 Ici, la variable “Process” déclarée dans cet exemple contient la liste des processus en cours, obtenus par la commande “Get-Process”.   
 Vous pouvez afficher son contenu en mentionnant simplement en stipulant son nom “$Process” puis “Entrée”
 
-[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
+
+
+[Les Conditions](https://github.com/mveron13/cours.linux/blob/main/powershell/Conditions_if_else.md)
