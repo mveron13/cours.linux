@@ -31,4 +31,7 @@ Else fonctionne de façon similaire à if, sauf qu'il se place obligatoirement a
 
 [← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
 
-[Suivant →](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_boucles.md)
+
+[Les Boucles](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_boucles.md)
+
+
