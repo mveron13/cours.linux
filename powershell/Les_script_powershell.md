@@ -1,6 +1,6 @@
 # Script PowerShell
 
-Il existe 2 outils pour faire un script PowerShell : PowerShell ISE et Visual Studio Code.
+Il existe plusieurs outils pour faire un script PowerShell; en voici 2 : PowerShell ISE et Visual Studio Code.
 
 PowerShell ISE est l'éditeur intégré à Windows et qui est adapté au scripting PowerShell, il contient notamment l'aide intégré, l'auto-complétion ainsi qu'une console PowerShellDe base et sans configuration particulière, il  permet de bénéficier d'un environnement simple et préconfiguré pour débuter avec PowerShell.
 
