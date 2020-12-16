@@ -28,7 +28,7 @@ Voici ci dessous la liste des téléchargements et installations pour un package
 | macOS 10.13 + corefx-macos | .pkg lts-macos | .pkg rl-macos | .pkg pv-macos | Instructions in-macos |
 | Docker | | | | Instructions dans le docker |
 
-[← Retour](https://github.com/mveron13/cours.linux/blob/main/README.md)
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
 
 
-[Suivant →](https://github.com/mveron13/cours.linux/blob/main/powershell/Histoire.md)
+[Histoire](https://github.com/mveron13/cours.linux/blob/main/powershell/Histoire.md)
