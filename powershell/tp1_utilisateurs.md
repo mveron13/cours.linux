@@ -8,9 +8,9 @@ $modifier = Read-Host "Modifier l'utilisateur"
 Set-LocalUser $modifier
 
 
-$Remove = Read-Host "Supprimer l'utilisateur"
+$remove = Read-Host "Supprimer l'utilisateur"
 
-Remove-LocalUser $Remove
+Remove-LocalUser $remove
 
 
 $obt = Read-Host "Obtenir une liste des utilisateurs"
