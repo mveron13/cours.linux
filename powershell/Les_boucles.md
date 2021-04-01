@@ -23,3 +23,4 @@ Enfin, il y a la boucle "For" à conditions multiple.
 
 Au sein d'une boucle "For", on utilise généralement la variable $i pour gérer l'initialisation et l'incrémentation. Si besoin, on peut utiliser deux conditions afin de créer une boucle For à conditions multiple. Pour l'exemple ci-dessus, on prend $i et $j.  
 
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)

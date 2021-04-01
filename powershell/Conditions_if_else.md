@@ -23,8 +23,15 @@ Ici, if vérifie si la condition "min est plus grand ou égal à max". Si la con
 ## Else
 
 
-Cependant dans le cas où la condition imposé par le "if" n'est pas rempli, il faut que le programme puisse afficher un résultat différent; par exemple si un programme, une fois la condition rempli, affiche 1, il doit afficher un autre résultat que 1 si la condition n'est en revanche pas rempli. C'est pour cela que nous allons utiliser "else"
+Cependant dans le cas où la condition imposée par le "if" n'est pas rempli, il faut que le programme puisse afficher un résultat différent; par exemple si un programme, une fois la condition remplie, affiche 1, il doit afficher un autre résultat que 1 si la condition n'est en revanche pas remplie. C'est pour cela que nous allons utiliser "else"
 
 Else fonctionne de façon similaire à if, sauf qu'il se place obligatoirement après un if et son action, et n'a pas besoin de condition (car il regroupe de base toute les conditions qui ne sont pas les conditions du if)
 
 ![image](https://media.discordapp.net/attachments/408320873876160522/788106239997116447/cond3.PNG)
+
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
+
+
+[Les Boucles](https://github.com/mveron13/cours.linux/blob/main/powershell/Les_boucles.md)
+
+

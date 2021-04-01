@@ -27,3 +27,8 @@ Voici ci dessous la liste des téléchargements et installations pour un package
 | Fedora 30 corefx-linux | .rpm lts-centos | .rpm rl-centos | .rpm pv-centos | Instructions in-fedora |
 | macOS 10.13 + corefx-macos | .pkg lts-macos | .pkg rl-macos | .pkg pv-macos | Instructions in-macos |
 | Docker | | | | Instructions dans le docker |
+
+[← Retour au menu](https://github.com/mveron13/cours.linux/blob/main/README.md)
+
+
+[Histoire](https://github.com/mveron13/cours.linux/blob/main/powershell/Histoire.md)
